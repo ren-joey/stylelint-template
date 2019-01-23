@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "stylelint app/scss/**/**/**/*.scss --syntax scss",
+    "lint:fix": "stylelint app/scss/**/**/**/*.scss --syntax scss --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pre-commit": "^1.2.2",
+    "stylelint": "^9.10.1",
+    "stylelint-config-prettier": "^4.0.0",
+    "stylelint-config-sass-guidelines": "^5.3.0",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-order": "^2.0.0",
+    "stylelint-scss": "^3.5.1"
+  },
+  "pre-commit": [
+    "lint"
+  ]
+}

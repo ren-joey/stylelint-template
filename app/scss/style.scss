@@ -1,0 +1,17 @@
+.my-app {
+  display: block;
+  margin: 0 2rem;
+  padding: 2rem 0;
+  width: 5rem;
+  height: 2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  color: #0ff;
+  background: #f00;
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    color: #f0f;
+  }
+}
