@@ -165,7 +165,8 @@ touch stylelintrc.json
 3. 邊框圓角陰影設定
 4. 動畫變形設定
 
-### **新增 npm 指令**
+<h3 style="font-weight: bold;" id="t03"><span>新增 npm 指令</span></h3>
+
 編輯檔案 _**package.json**_
 ```json
   {
@@ -188,7 +189,7 @@ touch stylelintrc.json
 
 <img src="https://az787680.vo.msecnd.net/user/incredible/768eeac2-5183-4869-b725-a06acca5d1b1/1538292026_62463.png" width="300">
 
-此時執行上一步動作所加入的 npm 指令碼
+此時執行[上一步動作](#t03)所加入的 npm 指令碼
 ```bash
 npm run lint
 ```
