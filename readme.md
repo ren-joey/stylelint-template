@@ -1,4 +1,4 @@
-# STYLELINT 標準化範例
+# Stylelint CSS 樣式標準化
 
 本範例參考[Robby - 全端的 Front-End Engineer](https://dotblogs.com.tw/explooosion/1) - [CSS - 運用 Stylelint 養成好習慣](https://dotblogs.com.tw/explooosion/2018/09/30/141005)所完成
 
