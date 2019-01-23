@@ -165,7 +165,7 @@ touch stylelintrc.json
 3. 邊框圓角陰影設定
 4. 動畫變形設定
 
-<h3 style="font-weight: bold;" id="t03"><span>新增 npm 指令</span></h3>
+<h3 style="font-weight: bold;"><a id="t03">新增 npm 指令</a></h3>
 
 編輯檔案 _**package.json**_
 ```json
