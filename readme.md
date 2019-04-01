@@ -90,7 +90,7 @@ touch .stylelintrc.json
       "margin",
       "margin-top",
       "margin-right",
-      "margin-bogttom",
+      "margin-bottom",
       "margin-left",
       "padding",
       "padding-top",
