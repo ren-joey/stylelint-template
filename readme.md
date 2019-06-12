@@ -156,7 +156,10 @@ touch .stylelintrc.json
     "property-no-vendor-prefix": null,
     "selector-max-compound-selectors": null,
     "scss/at-import-partial-extension-blacklist": null,
-    "value-no-vendor-prefix": null
+    "value-no-vendor-prefix": null,
+    "font-family-no-missing-generic-family-keyword": null,
+    "declaration-block-semicolon-newline-after": null,
+    "indentation": [4, { "severity": "warning" } ]
   }
 }
 ```
