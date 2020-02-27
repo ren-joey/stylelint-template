@@ -18,9 +18,9 @@ npm init -y
 <h3 style="font-weight: bold;"><a id="t02">安裝 vscode 擴充功能</a></h3>
 
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)<br/>
-  <img src="https://az787680.vo.msecnd.net/user/incredible/768eeac2-5183-4869-b725-a06acca5d1b1/1538289428_76378.png" width="300">
+  <img src="https://i.imgur.com/Lw6sl2a.png" width="300">
 - [stylefmt](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-stylefmt)<br/>
-  <img src="https://az787680.vo.msecnd.net/user/incredible/768eeac2-5183-4869-b725-a06acca5d1b1/1538289428_79332.png" width="300">
+  <img src="https://i.imgur.com/QtnM3jX.png" width="300">
   <br/>
 
 > 注意: 安裝完畢後須將 vscode 重新啟動
@@ -195,7 +195,7 @@ touch .stylelintrc.json
 
 完成設定後，隨意撰寫一個 scss 樣式，即可看到 stylelint 回報的錯誤訊息
 
-<img src="https://az787680.vo.msecnd.net/user/incredible/768eeac2-5183-4869-b725-a06acca5d1b1/1538292026_62463.png" width="300">
+<img src="https://i.imgur.com/efAz51W.png" width="300">
 
 此時執行[上一步動作](#t03)所加入的 npm 指令碼
 ```bash
@@ -203,7 +203,7 @@ npm run lint
 ```
 即可看到 command line 回報的錯誤訊息
 
-<img src="https://az787680.vo.msecnd.net/user/incredible/768eeac2-5183-4869-b725-a06acca5d1b1/1538292414_78228.png" width="500">
+<img src="https://i.imgur.com/dOdUUuw.png" width="500">
 
 接著執行自動修復的指令
 
@@ -213,15 +213,15 @@ npm run lint:fix
 
 command line 將回報修復結果
 
-<img src="https://az787680.vo.msecnd.net/user/incredible/768eeac2-5183-4869-b725-a06acca5d1b1/1538292375_43886.png" width="400">
+<img src="https://i.imgur.com/9OoZNTj.png" width="400">
 
 樣式排序及編成風格等問題已自動修復
 
-<img src="https://az787680.vo.msecnd.net/user/incredible/768eeac2-5183-4869-b725-a06acca5d1b1/1538292610_53263.png" width="300">
+<img src="https://i.imgur.com/hZLeS5e.png" width="300">
 
 <h3 style="font-weight: bold;"><a id="t07">參考資料及相關依賴</a></h3>
 
-[<img src="https://az788688.vo.msecnd.net/assets/img/dotblog-logo@2x.png" height="100" style="margin-right: 5px; padding: 25px;">](https://dotblogs.com.tw/explooosion/2018/09/30/141005)
+[<img src="https://i.imgur.com/03SWffk.png">](https://dotblogs.com.tw/explooosion/2018/09/30/141005)
 [<img src="https://jes.al/public/wp-content/uploads/stylelint.png" height="150" style="margin-right: 5px;">](https://stylelint.io/)
 <br/>
 [Stylelint Tutorial - CSS Linter for VSCode](https://www.youtube.com/watch?v=XbMxA70ZA6o)
